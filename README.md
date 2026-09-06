@@ -6,7 +6,7 @@
 
 - 직접 사용하거나 커스텀한 애셋들은 /Assets/_Procject/ 아래에 있으며 별도 관리
 
-- [유튜브 링크](https://www.youtube.com/watch?v=fzfrVrlNUj0)
+- 유튜브 [링크](https://youtu.be/fzfrVrlNUj0)
 
 ## imported Assets from UAS
 - All Packages Demo (1.4)
